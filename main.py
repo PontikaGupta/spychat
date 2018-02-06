@@ -6,7 +6,7 @@ print"Hello!!"
 print"Welcome to Spychat"
 print"Let\'s get started"
 
-#Function declaration
+#Function definition
 def start_chat(spy_name,spy_age,spy_rating):
 
     #for creating menu
